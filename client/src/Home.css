@@ -1,4 +1,5 @@
-.home{
-    align-items: center;
-    justify-content: center;
+.homeimage{
+   height: 300px;
+   width: 300px;
+   left: 50px;
 }

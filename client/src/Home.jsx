@@ -5,7 +5,7 @@ import welcome from './assets/welcome.jpg'
 const Home = () => {
   return (
     <div className="home">
-      <img src={welcome} alt="" />
+      <img className='homeimage' src={welcome} alt="" />
       
     </div>
   );
